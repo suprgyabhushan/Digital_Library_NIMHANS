@@ -1,5 +1,5 @@
 # Digital Library
-1. Project work regarding Digital Library for NIMHANS!! We are using the DSpace open source repository to make our own IIITB or NIMHANS digital library.
+1. Project work regarding Digital Library!! We are using the DSpace open source repository to make our own IIITB or NIMHANS digital library.
 
 2. This project is purely done in Linux environment. So Windows or MAC users bye!!
 
